@@ -60,3 +60,7 @@
   college intermurals, hockey curling golf basketball
   golf class
 </details>
+
+---
+
+<a href="https://ko-fi.com/declancostello75997">☕ Buy me a coffee</a>
