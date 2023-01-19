@@ -2,6 +2,8 @@
 
 ## I am a Lifelong Learner, Engineer, and Sports Fan!!
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Declan06752632?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Declan)
+
 ### 🛠️ Languages and Tools 🛠️
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
