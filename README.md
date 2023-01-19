@@ -1,4 +1,4 @@
-# Hi there, I'm Declan - ⚾⛷️ 👋 
+# Hi there, I'm Declan - 👋 ⚾ ⛷️
 
 ## I am a Lifelong Learner, Engineer, and Sports Fan!!
 
