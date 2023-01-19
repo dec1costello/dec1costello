@@ -1,6 +1,8 @@
 ### ⛷️ ⚾ Declan Patrick Costello ⚾⛷️
 
-**'Lifelong Learner / Data Engineer/ Analyst / Sports Fan**
+**Lifelong Learner / Data Engineer/ Analyst / Sports Fan**
+
+<br />
 
 ### 🛠️ Languages and Tools 🛠️
 
