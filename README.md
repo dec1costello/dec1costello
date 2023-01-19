@@ -24,3 +24,39 @@
 
 ### 📊 Stats
   <img align="left" alt="Declan's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dec1costello&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  #
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+---
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   I started my coding journey as a highschool student in AP comp sci with a passion to learn everything I could about tech.  I went to college at Iowa State University where I majred in Software Enigineering with a minor in Chemistry. As a computer science TA at Iowa State University, I was asked contribute and design programming material, tests, and homework for a new Python course. It was super rewarding was teaching and mentoring students to go above and beyond. 
+  talk about research
+  golub capital ml investing in green tech
+  enviorment
+  class projects
+  bmw
+  
+</details>
+
+
+
+---
+<details>
+<summary><h3> ⚾ My Sports Journey</h3></summary>
+    While in high school, I was a senior caddy that mentored novice caddies to provide excellent customer service and exceed club standards. I was fortunate enough to coach my younger brother YMCA basketball team and a senior and won the championship. 
+  college intermurals, hockey curling golf basketball
+  golf class
+</details>
