@@ -47,7 +47,7 @@
 ---
 <details>
  <summary><h3> 👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a highschool student in AP comp sci with a passion to learn everything I could about tech.  I went to college at Iowa State University where I majred in Software Enigineering with a minor in Chemistry. As a computer science TA at Iowa State University, I was asked contribute and design programming material, tests, and homework for a new Python course. It was super rewarding was teaching and mentoring students to go above and beyond. 
+   I started my coding journey as a highschool student with a passion to learn everything I could about tech.  I went to college at Iowa State University where I majred in Software Enigineering with a minor in Chemistry. As a computer science TA at Iowa State University, I was asked contribute and design programming material, tests, and homework for new Python courses. It was super rewarding was teaching and mentoring students to go above and beyond. 
   talk about research
   golub capital ml investing in green tech
   enviorment
@@ -61,9 +61,7 @@
 ---
 <details>
 <summary><h3> ⚾ My Sports Journey</h3></summary>
-    While in high school, I was a senior caddy that mentored novice caddies to provide excellent customer service and exceed club standards. I was fortunate enough to coach my younger brother YMCA basketball team and a senior and won the championship. 
-  college intermurals, hockey curling golf basketball
-  golf class
+    I grew up playing a ton of sports. While in high school, I was a caddy that was lucky enough to see some really good golf and meet some really great people. I also got the chance to coach my younger brother's YMCA basketball team when I was a senior, we won the championship NBD. At ISU, I participated in hockey, basketball, curling, golf, and basketball intermurals. As someone who grew up a block away from an MLB stadium, I am incredibly fortunate and stoked to now be a Data Engineer on the Colorado Rockies!!
 </details>
 
 ---
