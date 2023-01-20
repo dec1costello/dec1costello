@@ -59,10 +59,8 @@
 
 
 ---
-<details>
 <summary><h3> ⚾ My Sports Journey</h3></summary>
     I grew up playing a ton of sports. While in high school, I was a caddy that was lucky enough to see some really good golf and meet some really great people. I also got the chance to coach my younger brother's YMCA basketball team when I was a senior, we won the championship NBD. At ISU, I participated in hockey, basketball, curling, golf, and basketball intermurals. As someone who grew up a block away from an MLB stadium, I am incredibly fortunate and stoked to now be a Data Engineer on the Colorado Rockies!!
-</details>
 
 ---
 
