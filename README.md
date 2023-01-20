@@ -5,7 +5,7 @@
 ## ⚾ ⛷️ 🏔️ I am a Lifelong Learner, Engineer, and Sports Fan!! 🏔️ ⚾ ⛷️
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&redirect=true)>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&redirect=true)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dec1costello?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Declan06752632)
    
