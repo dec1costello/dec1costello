@@ -47,7 +47,7 @@
 ---
 <details>
  <summary><h3> 👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a highschool student with a passion to learn everything I could about tech.  I went to college at Iowa State University where I majred in Software Enigineering with a minor in Chemistry. As a computer science TA at Iowa State University, I was asked contribute and design programming material, tests, and homework for new Python courses. It was super rewarding was teaching and mentoring students to go above and beyond. 
+   I started my coding journey as a highschool student with a passion to learn everything I could. I went to college at Iowa State University where I majred in Software Enigineering with a minor in Chemistry. As a computer science TA at Iowa State University, I was asked contribute and design programming material, tests, and homework for new Python courses. It was super rewarding was teaching and mentoring students to go above and beyond. 
   talk about research
   golub capital ml investing in green tech
   enviorment
