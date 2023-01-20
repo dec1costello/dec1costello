@@ -68,5 +68,4 @@
 
 ---
 
-<a href="https://ko-fi.com/declancostello75997"> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
- Buy me a coffee</a>
+<a href="https://ko-fi.com/declancostello75997"> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Buy me a coffee <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </a>
