@@ -25,47 +25,23 @@
 ---
 
 
-### 📊 Stats
+### :chart: Stats
 
-<img align="left" alt="Declan's's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dec1costello" />
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dec1costello&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dec1costello&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
-<br />
-<br />
-<br />
-<br />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dec1costello" alt="Gift's LangStat" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
-<details>
- <summary><h3> 👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a highschool student with a passion to learn everything I could. I went to college at Iowa State University where I majred in Software Enigineering with a minor in Chemistry. As a computer science TA at Iowa State University, I was asked contribute and design programming material, tests, and homework for new Python courses. It was super rewarding was teaching and mentoring students to go above and beyond. 
-  talk about research
-  golub capital ml investing in green tech
-  enviorment
-  class projects
-  bmw
+  <br>
   
-</details>
-
-
-
----
-<summary><h3> ⚾ My Sports Journey</h3></summary>
-    I grew up playing a ton of sports. While in high school, I was a caddy that was lucky enough to see some really good golf and meet some really great people. I also got the chance to coach my younger brother's YMCA basketball team when I was a senior, we won the championship NBD. At ISU, I participated in hockey, basketball, curling, golf, and basketball intermurals. As someone who grew up a block away from an MLB stadium, I am incredibly fortunate and stoked to now be a Data Engineer on the Colorado Rockies!!
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dec1costello&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ---
 
