@@ -16,7 +16,6 @@
 
 <br />
 
----
 
 ### 👋 Feel free to reach out
 
@@ -40,8 +39,6 @@
 <br />
 <br />
 <br />
-
----
 
 
 ### :chart: Stats
