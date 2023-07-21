@@ -20,7 +20,7 @@
 <a href="https://twitter.com/dec1costello"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a
-href="mailto:dec1costello@gmail.com"><img src = "https://www.vectorlogo.zone/logos/linkedin/mail-icon.svg" width="30px" style="padding-right:30px;"/></a>
+href="mailto:dec1costello@gmail.com"><img src = "https://www.vectorlogo.zone/util/logos/gmail/gmail-icon.svg" width="30px" style="padding-right:30px;"/></a>
 
 ### 🛠️ Languages and Tools
 
