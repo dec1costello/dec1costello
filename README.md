@@ -21,6 +21,7 @@
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="mailto:dec1costello@gmail.com"><img align="left" src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" style="padding-right:30px;"/></a>
 
+
 ### 🛠️ Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
