@@ -19,7 +19,7 @@
 <br />
 
 
-### 👋 Feel free to reach out
+###  👋 Feel free to reach out
 
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
@@ -28,7 +28,7 @@
 
 <br />
 
-### 🛠️ Languages and Tools
+###  🛠️ Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
