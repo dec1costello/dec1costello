@@ -40,6 +40,7 @@
 <br />
 <br />
 
+---
 
 ### :chart: Stats
 
