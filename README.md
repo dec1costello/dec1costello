@@ -21,8 +21,8 @@
 
 ### 👋 Feel free to reach out
 
-<a href="https://www.kaggle.com/dec1costello"><img align="left" src = "https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
+<a href="https://www.kaggle.com/dec1costello"><img align="left" src = "https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="mailto:dec1costello@gmail.com"><img align="left" src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" style="padding-right:30px;"/></a>
 
