@@ -20,10 +20,6 @@
 <a href="https://twitter.com/dec1costello"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="mailto:dec1costello@gmail.com"><img src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" style="padding-right:30px;"/></a>
-<a
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" href="https://twitter.com/dec1costello" width="30px" style="padding-right:30px;"/>
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" href="https://www.linkedin.com/in/declan-costello-7423aa137/" width="30px" style="padding-right:30px;"/>
-<img src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" href="mailto:dec1costello@gmail.com" width="30px" style="padding-right:30px;"/>></a>
 
 ### 🛠️ Languages and Tools
 
