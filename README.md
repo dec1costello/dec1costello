@@ -19,7 +19,7 @@
 
 <a href="https://twitter.com/dec1costello"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px"/></a>
-<a> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
+<a> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="30px"/></a>
 
 
 ### 🛠️ Languages and Tools
