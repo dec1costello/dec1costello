@@ -17,9 +17,8 @@
 
 ### 👋 Contact me
 
-<a href="https://twitter.com/dec1costello"><img width="30px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px"/></a>
+<a href="https://twitter.com/dec1costello"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40px"/></a>
+<a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40px"/></a>
 
 
 ### 🛠️ Languages and Tools
