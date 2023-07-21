@@ -4,6 +4,7 @@
 
 ## ⚾ ⛷️ 🏔️ I am a Lifelong Learner and Sports Fan! 🏔️ ⚾ ⛷️
 
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&redirect=true)
 
@@ -36,6 +37,7 @@
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;"/>
 
+<br />
 <br />
 <br />
 
