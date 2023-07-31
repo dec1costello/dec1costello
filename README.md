@@ -43,14 +43,6 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dec1costello&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-
-
-### Articles I've been into
-
-
- <a target="_blank" href="espn.com"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2" alt="Recent Article 2">
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="espn.com" alt="Recent Article 3">
-
   
   </div>
 
