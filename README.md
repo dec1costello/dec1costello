@@ -47,8 +47,3 @@
   </div>
 
 </p>
-
-### Check out my latest articles
-<a target="_blank" href="espn.com"><img src="**https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0**" alt="Recent Article 0"> 
- <a target="_blank" href="https://www.espn.com/nfl/story/_/id/38082804/49ers-quarterbacks-brock-purdy-trey-lance-sam-darnold-help-win-super-bowl)https://www.espn.com/nfl/story/_/id/38082804/49ers-quarterbacks-brock-purdy-trey-lance-sam-darnold-help-win-super-bowl"><img src="https://www.espn.com/nfl/story/_/id/38082804/49ers-quarterbacks-brock-purdy-trey-lance-sam-darnold-help-win-super-bowl)https://www.espn.com/nfl/story/_/id/38082804/49ers-quarterbacks-brock-purdy-trey-lance-sam-darnold-help-win-super-bowl" alt="Recent Article 1">
-
