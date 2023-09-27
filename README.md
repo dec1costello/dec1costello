@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## ⚾ ⛷️ 🏔️ I am a Lifelong Learner and Sports Fan! 🏔️ ⚾ ⛷️
+## ⚾ ⛷️ 🏔️ I am a Lifelong Learner and Sports Fan! 🏔️ ⛳ 🏌️
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&redirect=true)
