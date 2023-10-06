@@ -1,6 +1,6 @@
 # Hi there, I'm Declan 🤙
 
-Here you can find some of the projects. My personal favorite is **The Distance Predictor**, which also has an interactive web app you can play around with at [light-weight-distance-predictor.streamlit.app](https://light-weight-distance-predictor.streamlit.app/)
+Here you can find some of my personal projects. My favorite is **The Distance Predictor**, which also has an interactive web app you can play around with at [light-weight-distance-predictor.streamlit.app](https://light-weight-distance-predictor.streamlit.app/). Feel free to check out [the code here!](https://github.com/dec1costello/Baseball/tree/main/Distance-Predictor)
 
 
 <div align="center">
