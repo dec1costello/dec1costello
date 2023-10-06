@@ -1,5 +1,7 @@
 # Hi there, I'm Declan 🤙
 
+Here you can find some of the projects. My personal favorite is **The Distance Predictor**, which also has an interactive web app you can play around with at [light-weight-distance-predictor.streamlit.app](https://light-weight-distance-predictor.streamlit.app/)
+
 
 <div align="center">
 
@@ -8,7 +10,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&redirect=true)
 
-Here you can find some of the projects. My personal favorite is **The Distance Predictor**, which also has an interactive web app you can play around with at [light-weight-distance-predictor.streamlit.app](https://light-weight-distance-predictor.streamlit.app/)
 
    <a href="https://github.com/dec1costello?tab=repositories&sort=stargazers">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dec1costello?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
