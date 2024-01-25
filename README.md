@@ -1,6 +1,6 @@
 # Hi there, I'm Declan 🤙
 
-Here you can find some of my personal projects and courses I have taken. My favorite personal project is **[The Distance Predictor](https://github.com/dec1costello/Baseball/tree/main/Distance-Predictor)** that was hand picked to be featured in Streamlit's Awesome Gallery for the Fall of 2023. Feel free to try it out **[Here!](https://light-weight-distance-predictor.streamlit.app/)**. While you're here, **[Lets Connect!](https://linktr.ee/dec1costello)**
+Here you can find some of my personal projects and courses I have taken. My favorite personal project is **[The Distance Predictor](https://github.com/dec1costello/Baseball/tree/main/Distance-Predictor)**, try it out **[Here!](https://light-weight-distance-predictor.streamlit.app/)**. While you're on my Github, **[Lets Connect!](https://linktr.ee/dec1costello)**
 
 
 <div align="center">
