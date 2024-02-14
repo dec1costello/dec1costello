@@ -1,6 +1,6 @@
 # Hi there, I'm Declan 🤙
 
-Here you can find some of my personal projects and courses I have taken, my favorite personal project is **[The Distance Predictor](https://github.com/dec1costello/Baseball/tree/main/Distance-Predictor)**. While you're on my Github, **[Lets Connect!](https://linktr.ee/dec1costello)**
+Here you can find some of my personal projects and courses I have taken, I am currently working on **[Analysis of the 2011 Tour Championship.](https://github.com/dec1costello/Golf/tree/main/TOUR_Championship_2011)** While you're on my Github, **[Lets Connect!](https://linktr.ee/dec1costello)**
 
 
 <div align="center">
