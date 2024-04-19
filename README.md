@@ -1,6 +1,6 @@
 # Hi there, I'm Declan 🤙
 
-Here you can find some of my personal projects and courses I have taken, I am currently working on **[Analysis of the 2011 Tour Championship](https://github.com/dec1costello/Golf/tree/main/TOUR_Championship_2011)**. While you're here, **[Lets Connect!](https://linktr.ee/dec1costello)**
+Here you can find some of my personal projects and courses I have taken, I am currently working on **[Analysis of the 2011 Tour Championship](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)**. While you're here, **[Lets Connect!](https://linktr.ee/dec1costello)**
 
 
 <div align="center">
