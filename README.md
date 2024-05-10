@@ -34,7 +34,6 @@ Here you can find some of my personal projects and courses I have taken, I am cu
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="scikit_learn" width="55px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 <br />
