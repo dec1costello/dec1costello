@@ -4,6 +4,15 @@ Here you can find some of my personal projects and courses I have taken, I am cu
 > **[Analysis of the 2011 Tour Championship](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
 
 <br />
+
+<div align="left">
+   <a href="https://github.com/dec1costello?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dec1costello?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
+  <a href="https://github.com/dec1costello?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dec1costello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</div>
+
 <br />
 
 ###  👋 [Connect](https://linktr.ee/dec1costello)
