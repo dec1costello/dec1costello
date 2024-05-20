@@ -1,25 +1,12 @@
-# Hi there, I'm Declan 🤙
+# Declan Costello
 
-Here you can find some of my personal projects and courses I have taken, I am currently working on **[Analysis of the 2011 Tour Championship](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)**. While you're here, **[Lets Connect!](https://linktr.ee/dec1costello)**
+Here you can find some of my personal projects and courses I have taken, I am currently working on:
+> **[Analysis of the 2011 Tour Championship](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
 
+<br />
+<br />
 
-<div align="center">
-
-##  🏌️ ⚾ 🏔️ I am a Lifelong Learner and Sports Fan! ⛷️ 🏔️ ⛳
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31prxvnieesqxmye2objinsowaxy&redirect=true)
-
-
-   <a href="https://github.com/dec1costello?tab=repositories&sort=stargazers">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dec1costello?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  
-  <a href="https://github.com/dec1costello?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dec1costello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-</div>
-
-###  👋 Connect
+###  👋 [Connect](https://linktr.ee/dec1costello)
 
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
