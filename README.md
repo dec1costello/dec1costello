@@ -5,17 +5,7 @@ Here you can find some of my personal projects and courses I have taken, I am cu
 
 <br />
 
-<div align="left">
-   <a href="https://github.com/dec1costello?tab=repositories&sort=stargazers">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dec1costello?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  
-  <a href="https://github.com/dec1costello?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dec1costello?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
-
-<br />
-
-##  [👋 Connect](https://linktr.ee/dec1costello)
+#  [👋 Connect](https://linktr.ee/dec1costello)
 
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
@@ -24,7 +14,7 @@ Here you can find some of my personal projects and courses I have taken, I am cu
 <br />
 <br />
 
-##  🛠️ Languages & Tools
+#  🛠️ Languages & Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;"/>
