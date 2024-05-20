@@ -1,20 +1,18 @@
 # Declan Costello
 
 Here you can find some of my personal projects and courses I have taken, I am currently working on:
-> ## **[Analysis of the 2011 PGA Tour Championship](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
+> ## **[Analysis of the 2011 PGA Tour Championship 🏌️](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
 
-<br />
 
-#  [👋 Connect](https://linktr.ee/dec1costello)
+#  [Connect](https://linktr.ee/dec1costello)
 
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.kaggle.com/dec1costello"><img align="left" src = "https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30px" style="padding-right:30px;"/></a>
 
 <br />
-<br />
 
-#  🛠️ Languages & Tools
+#  Languages & Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;"/>
