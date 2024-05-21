@@ -1,6 +1,4 @@
-# Declan Costello
-
-Here you can find some of my personal projects and courses I have taken, I am currently working on:
+# I am currently working on:
 > ## **[Analysis of the 2011 PGA Tour Championship 🏌️](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
 
 
