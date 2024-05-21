@@ -7,6 +7,7 @@
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.linkedin.com/in/declan-costello-7423aa137/"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" style="padding-right:30px;"/></a>
 <a href="https://www.kaggle.com/dec1costello"><img align="left" src = "https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30px" style="padding-right:30px;"/></a>
+<a href="https://huggingface.co/dec1costello"><img align="left" src = "https://github.com/dec1costello/Baseball/assets/79241861/1cdd47c7-c38f-4997-bf35-fb21811bea6c" height="34px" style="padding-right:30px;"/></a>
 
 <br />
 
