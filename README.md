@@ -1,4 +1,4 @@
-# Currently coding:
+# Currently Coding:
 > ## **[Analysis of the 2011 PGA Tour Championship 🏌️](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
 
 
