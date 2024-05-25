@@ -29,14 +29,3 @@
     </a>
   </div>
 </p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-![](https://komarev.com/ghpvc/?username=dec1costello&style=flat-square)
