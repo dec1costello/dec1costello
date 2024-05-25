@@ -1,5 +1,5 @@
 # Currently Coding
-> ## **[🏌️ Golf Analysis ⛳](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
+> ## **[Golf Analysis ⛳](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
 
 
 #  [Connect](https://linktr.ee/dec1costello)
