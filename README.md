@@ -1,7 +1,3 @@
-# Currently Coding
-> ## **[Golf Analytics ⛳](https://github.com/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)** 
-
-
 # Connect
 
 <a href="https://twitter.com/dec1costello"><img align="left" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" style="padding-right:30px;"/></a>
