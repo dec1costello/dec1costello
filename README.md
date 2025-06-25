@@ -17,10 +17,4 @@
 <br />
 <br />
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dec1costello&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-  </div>
-</p>
+
